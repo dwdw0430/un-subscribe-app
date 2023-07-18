@@ -1,0 +1,4 @@
+import NetflixIcon from '../images/netflix.png';
+import AmazomPrimeVideoIcon from '../images/amazonprimevideo.png';
+import HuluIcon from '../images/hulu.png';
+import DisneyPlusIcon from '../images/disneyplus.png';
